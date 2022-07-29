@@ -14,11 +14,11 @@ body {
     height: 100vh;
 }
 
-body h1 {
+/* body h1 {
     padding: 1rem 0;
     margin: 0 auto;
     font-weight: 300;
-}
+} */
 
 #contentpaper {
     background-image: url(images/background2.png);    
@@ -27,21 +27,26 @@ body h1 {
     background-size: contain;
     height: 93vh;
     width: auto; 
+}
 
+#heading {
+    display: flex;
+    justify-content: center;
+    padding-top: 7.5rem; 
 }
 
 #contentpaper h1 {     
     font-family: 'Ink Free';
     font-size: 2.5rem;
     font-weight: 600;
-    padding-top: 7.5rem;      
+    /* padding-top: 7.5rem;       */
     color: #333333;        
 }
 
 #logomain {
-    float:left;
+    /* float:left;
     margin-top: 7.5rem;
-    margin-left: 50rem;            
+    margin-left: 50rem; */
     height: 50px;
     width: auto;
     padding-right: 0.5rem;       
