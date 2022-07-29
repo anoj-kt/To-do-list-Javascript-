@@ -54,7 +54,7 @@ body {
 
 hr {    
     margin: auto;
-    width: 32rem;
+    width: 26rem;
     border: none;
     background-color: #333333a5;
     height: 2px;
@@ -95,7 +95,7 @@ hr {
 /* ADDING NEW TASK SECTION  */
 #new-task-form {
     display: flex;
-    padding: 1rem 10rem;
+    padding: 1rem 12rem;
     max-width: 800px;
     width: 100%;
     margin: 0 auto;
@@ -146,7 +146,7 @@ input, button {
 
 /* TASK LIST */
 #task-list {    
-    padding: 0rem 9rem;
+    padding: 0rem 12rem;
     max-width: 800px;
     width: 100%;
     margin: 0 auto;
