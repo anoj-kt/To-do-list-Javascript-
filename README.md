@@ -3,6 +3,7 @@ This was a one week project completed by a team of 4 for the purpose of learning
 
 ### Learning Objectives
 - DOM Manipulation using Javascript
+- Using local storage
 
 ### Tech/Framework used
 - Javascript
